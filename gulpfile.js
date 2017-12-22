@@ -3,7 +3,5 @@ var gulp = require('gulp')
 
 gulp.task('deploy', function () {
     return gulp.src('./_site/**/*')
-        .pipe(ghPages({
-            'branch': 'master'
-        }));
+        .pipe(ghPages());
 });
