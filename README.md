@@ -1,6 +1,6 @@
 # eleventy-site
 
-Testing [ Zach Leatherman's new static site generator](https://github.com/zachleat/eleventy).
+Testing [Zach Leatherman's new static site generator](https://github.com/zachleat/eleventy).
 
 Generated with (generally) these commands:
 ```
@@ -12,4 +12,5 @@ git add .
 git commit -m "commit"
 gulp deploy
 ```
-Then some moving around of files in a new branch.
+
+[Generated Site](https://aakoch.github.io/eleventy-site/)
